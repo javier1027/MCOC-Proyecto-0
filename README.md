@@ -15,7 +15,7 @@ Se define el error relativo como
 	ERROR = 100*(Numero supuesto - Numero Real) / Numero supuesto
 
 Abajo se muestra como el numero supuesto nunca es igual al numero que en verdad se obtiene al realizar divisiones que dan numeros periodicos.
-![Results](loss-of-significance.jepg)
+![Results](loss_of_significance.jepg)
 
 Output de la consola:
 
